@@ -265,3 +265,17 @@ npm run build
 - Update/delete timetables from frontend
 - Analytics on OCR confidence per provider
 ```
+
+## Screenshots
+
+### 🧠 Timetable UI
+![Timetable UI](./assets/fe.png)
+
+### 🚀 API Server Running (NestJS)
+![API Running](./assets/backend.png)
+
+### 🎨 Frontend (React + Vite)
+![Frontend Running](./assets/fe-ui.png)
+
+### 🎨 Paddle OCR (Python)
+![PaddleOCR Running](./assets/paddle-ocr.png)
